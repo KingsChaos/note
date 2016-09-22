@@ -18,3 +18,14 @@
 	git reset --hard HEAD^ /HEAR~100
 版本回退最新：
 	git reset --hard xxxxx(commit id)
+版本commit id记录：
+	git reflog
+
+
+
+
+
+
+
+
+
