@@ -7,5 +7,9 @@
 创建文件file.txt（UTF-8编码）后添加进git：
 	git add file.txt file2.txt		//多个文件
 	git commit -m "add a file"	//-m 添加参数 “xxxxx”，可一次提交多个文件
+查看git工作区状态：
+	git status
+查看未提交的修改：
+	git diff file.txt
 
 
