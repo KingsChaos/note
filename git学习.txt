@@ -32,6 +32,16 @@ git commit 只负责把git add的文件更新，没有进行git add的文件不�
 删除文件：
 	1.git rm +git commit ....
 	2.git checkout -- file.txt
+添加本地库：
+	git remote add origin git@github.com:michaelliao/learngit.git
+	git push -u origin master（全部推送到gitHub上）
+	git push origin master
+	参考：
+	http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/
+		  0013752340242354807e192f02a44359908df8a5643103a000
+
+
+
 
 
 
