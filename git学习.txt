@@ -29,6 +29,9 @@ git commit 只负责把git add的文件更新，没有进行git add的文件不�
 丢弃暂存区修改：
 	1.git reset HEAD file.txt
 	2.git checkout -- file.txt
+删除文件：
+	1.git rm +git commit ....
+	2.git checkout -- file.txt
 
 
 
