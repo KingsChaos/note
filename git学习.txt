@@ -11,5 +11,10 @@
 	git status
 查看未提交的修改：
 	git diff file.txt
-
-
+版本查看：
+	git log 
+	git log --pretty=oneline
+版本回退:
+	git reset --hard HEAD^ /HEAR~100
+版本回退最新：
+	git reset --hard xxxxx(commit id)
