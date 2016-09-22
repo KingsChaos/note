@@ -2,7 +2,10 @@
 	mkdir eg
 进入 
 	cd  eg
-添加进git
+添加进git仓库
 	git init
+创建文件file.txt（UTF-8编码）后添加进git：
+	git add file.txt file2.txt		//多个文件
+	git commit -m "add a file"	//-m 添加参数 “xxxxx”，可一次提交多个文件
 
 
