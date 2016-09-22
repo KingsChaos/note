@@ -1,0 +1,8 @@
+创建文件夹
+	mkdir eg
+进入 
+	cd  eg
+添加进git
+	git init
+
+
