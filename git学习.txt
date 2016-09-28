@@ -33,7 +33,7 @@ git commit 只负责把git add的文件更新，没有进行git add的文件不�
 	1.git rm +git commit ....
 	2.git checkout -- file.txt
 添加本地库：
-	git remote add origin git@github.com:michaelliao/learngit.git
+	git remote add origin https://github.com/KingsChaos/XXXXXXX.git
 	git push -u origin master（全部推送到gitHub上）
 	git push origin master
 	参考：
